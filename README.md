@@ -1,6 +1,6 @@
-# colorpicker
+# Color Picker
 
-A new Flutter project.
+Demo Flutter Application with local storage.
 
 ## Getting Started
 
